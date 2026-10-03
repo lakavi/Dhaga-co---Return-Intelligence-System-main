@@ -1,0 +1,6 @@
+{
+  "name": "Dhaga & Co. Return Intelligence",
+  "description": "Client engagement return-intelligence dashboard for Dhaga & Co., analyzing customer return comments in Hinglish and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
